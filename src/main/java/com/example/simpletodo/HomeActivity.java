@@ -16,6 +16,7 @@ public class HomeActivity extends AppCompatActivity {
 
         getSupportActionBar().hide();
 
+        // This uses the HomeActivity Splash Screen and transfer to the MainActivity screen
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
