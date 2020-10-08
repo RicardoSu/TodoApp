@@ -4,7 +4,7 @@
 
 Submitted by: **Ricardo Suarez**
 
-Time spent: **4** hours spent in total
+Time spent: **8** hours spent in total
 
 ## User Stories
 
@@ -21,7 +21,9 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 * [X] New Backgroung
+* [X] Splash Screen
 * [ ] New
+
 
 
 ## Video Walkthrough
